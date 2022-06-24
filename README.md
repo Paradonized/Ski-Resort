@@ -1,5 +1,6 @@
 # Ski-Resort Management
-Ski-Resort Management is a console text-management game with design patterns.
+Ski-Resort Management is a console text-management game with design patterns.<br />
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Paradonized/Ski-Resort?style=plastic">
 
 ## Game loop
 Each turn starts with the start of the day and ends with the player declaring to end the day.
