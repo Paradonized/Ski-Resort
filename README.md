@@ -10,10 +10,10 @@ You can make as many actions as you want in a turn (day). At the start of each t
 You have 20 turns to reach 1.000.000 in game currency. If you don't reach the goal for 20 turns or your ballance reaches 0 — you lose.
 
 ## Screenshots
-![ManagementStart](https://user-images.githubusercontent.com/85744016/175295258-663e2954-db68-45bf-a0f8-94dc5d7df676.PNG)
-![ManagementGameplay](https://user-images.githubusercontent.com/85744016/175295276-f56bdc59-eb99-4f27-b7f1-ab1e2d451a07.PNG)
+![ManagementStart](https://user-images.githubusercontent.com/85744016/175785495-6ccc6927-505b-415e-8b90-c100c37f1fed.PNG)
+![ManagementGameplay](https://user-images.githubusercontent.com/85744016/175785530-e3f34024-453b-4700-b198-eee6fb09c1b2.PNG)
 ![ManagementWin](https://user-images.githubusercontent.com/85744016/175296557-28b5b85c-c9b3-485f-b602-85f6f36d0ab0.PNG)
-![ManagementLoss](https://user-images.githubusercontent.com/85744016/175296569-52d9269c-fe27-4c88-9eee-6c4ac63c24c5.PNG)
+![ManagementLoss](https://user-images.githubusercontent.com/85744016/175785565-0f7f9cdd-8b08-4236-b0a6-8b68e6a6394f.PNG)
 
 ## Future improvements
 * Random events happening.
